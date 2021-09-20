@@ -74,7 +74,7 @@
 |46| Yingjin He| 3 | YingjnHeee |https://github.com/YingjinHeee/My_Website | https://yingjinhe.netlify.app| 2021-09-03  |
 |47| Nisa Ozer| 11 | nisabukeozer |https://github.com/nisabukeozer/website9 | https://nisabukeozer.netlify.app| 2021-09-03  |
 |48| Xu Xu| 6 | krissxu | <https://github.com/krissxu/my_website> | <https://xu-xu.netlify.app/> | 2021-09-03  |
-|49| Aman Sharma| 9 | AmanSharmaGitHub | <https://github.com/AmanSharmaGitHub/mywebsite> | <https://aman-sharma-lbs.netlify.app/> | 2021-09-05 |
+|49| Aman Sharma| 9 | AmanSharmaGitHub | <https://github.com/AmanSharmaGitHub/AM01portfolio> | <https://aman-sharma-am01portfolio.netlify.app/> | 2021-09-05 |
 |50| Palak Awasthi| 7 | palak7034 | <https://github.com/palak7034/my_website.git> | <https://palak-awasthi.netlify.app/> | 2021-09-05 |
 |51| Nikos Panayotou| 4 | nikospanayo | <https://github.com/nikospanayo/my_website.git> | <https://nikos-panayotou.netlify.app/> | 2021-09-05 |
 |52| Yifan Yang| 2 | yiyesther | <https://github.com/yiyesther/my_website.git> | <https://yifan-yang.netlify.app/> | 2021-09-06 |
