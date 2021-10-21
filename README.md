@@ -91,4 +91,4 @@
 |63| Roberta Sildmae | 6 | robertasildmae | https://github.com/robertasildmae/my_website |https://robertasmywebsite.netlify.app |    
 |64| Thomas Giannetti-Fakhoury | 11 | thomasgiannetti | https://github.com/thomasgiannetti/my_website |https://thomasgf-portfolio2021.netlify.app/ |
 |65| Raghav Mehta | 5 | Raghav-Mehta1| https://github.com/Raghav-Mehta1/My-glorious-website- |https://raghavmehtaportfolio.netlify.app|
-|66| YAXIN LYU | 12 | YAXINLYU| hhttps://github.com/YAXINLYU/my_website.git |https://veronicayaxinlyu.netlify.app|
+|66| YAXIN LYU | 12 | YAXINLYU| hhttps://github.com/YAXINLYU/my_website.git |https://yaxinlyu.netlify.app|
